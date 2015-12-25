@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "C:\Users\Javier\Documents\Visual Studio 2015\Projects\AdaptiveLayout\AdaptiveLayout\obj\x86\Release\ilc\intermediate\ILTransformed\AdaptiveLayout.metadata"
+/reflectionMetadataAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "C:\Users\Javier\Documents\Visual Studio 2015\Projects\AdaptiveLayout\AdaptiveLayout\obj\x86\Release\ilc\intermediate\ILTransformed\AdaptiveLayout.csv"
+/sharedGenericsMode StandardHeuristics
+/in "C:\Users\Javier\Documents\Visual Studio 2015\Projects\AdaptiveLayout\AdaptiveLayout\obj\x86\Release\ilc\intermediate\ILTransformed\AdaptiveLayout.ilexe"
+/out "C:\Users\Javier\Documents\Visual Studio 2015\Projects\AdaptiveLayout\AdaptiveLayout\obj\x86\Release\ilc\intermediate\MDIL\AdaptiveLayout.mdilexe"
